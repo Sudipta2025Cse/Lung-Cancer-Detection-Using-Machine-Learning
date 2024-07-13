@@ -1,2 +1,2 @@
-This is my first Internship  Project at Ardent Computech Private Limited On Lung Cancer Detection Using Machine Learning. In this project we have used 4 machine learning algorithms such as KNN, Naive Bayes, Decision Tree and Random Forest to detect the lung cancer.
-We have also drawn AUC-ROC curve for each Machine Learning Algorithms used in this project and a bar graph has also been drawn to visualize the accuracy of each ML Algorithms used in this project.
+This is my first Internship  Project at Ardent Computech Private Limited On Lung Cancer Detection Using Machine Learning. In this project I have used 4 machine learning algorithms such as KNN, Naive Bayes, Decision Tree and Random Forest to detect the lung cancer.
+I have also drawn AUC-ROC curve for each Machine Learning Algorithms used in this project and a bar graph has also been drawn to visualize the accuracy of each ML Algorithms used in this project.
